@@ -10,4 +10,21 @@ Sementara itu kalau pakai memsin pencari internal blog mereka mungkin punya kete
 
 Dengan tools ini kita bisa tambah domain dan memberikan search enngine kepada audience dan lebih spesfik menggunakan algoritma Google. Hasil pencarian akan di filter berdasarkan domain, pencarian bisa jadi lebih cepat dan lebih enak. Daripada berasaing di Google mengarahkan pengunjung ke situs kita biasanya kita menambahkan keyword site:sample.com untuk memfilter penelusuran agar hanya menampilkan hasil dari situs kita.
 
+Cara pakai sederhana
+
+```git clonse https://github.com/NetzkuOfficial/attachment```
+
+```cd attachment```
+
+```npm install```
+
+``npm start```
+
+ATAU 
+
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=[https://github.com/username/repo-name](https://github.com/NetzkuOfficial/attachment))
+
+Terimakasih, netzku adalah jasa penyedia program saas berbasis mini aplikasi bot whatsapp dan telegram.
+Kalau mau berllangganan kunjungi netzku.com
+
 
